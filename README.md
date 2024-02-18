@@ -1,4 +1,4 @@
-# Watching_Service_Laravel
+# Website_to_watch_cartoons_Laravel
 Website for watching animated series, let u login and track watched.
 All operations on likes or comments are work with ajax so page dont refresh all time
 
